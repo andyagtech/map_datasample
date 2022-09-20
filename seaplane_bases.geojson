@@ -1,0 +1,992 @@
+{
+    "type": "FeatureCollection",
+    "name": "airports",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "10",
+                "id": "8159",
+                "ident": "19P",
+                "type": "seaplane_base",
+                "name": "Port Protection Seaplane Base",
+                "latitude": 56.3288002,
+                "longitude": -133.6100006,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Port Protection",
+                "scheduled_service": "yes",
+                "gps_code": "19P",
+                "iata_code": "PPV",
+                "local_code": "19P"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -133.6100006,
+                    56.3288002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "18",
+                "id": "11820",
+                "ident": "4Z7",
+                "type": "seaplane_base",
+                "name": "Hyder Seaplane Base",
+                "latitude": 55.903324,
+                "longitude": -130.009975,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Hyder",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "WHD",
+                "local_code": "4Z7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -130.009975,
+                    55.903324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "20",
+                "id": "12429",
+                "ident": "5KE",
+                "type": "seaplane_base",
+                "name": "Ketchikan Harbor Seaplane Base",
+                "latitude": 55.349899,
+                "longitude": -131.677002,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Ketchikan",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "WFB",
+                "local_code": "5KE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -131.677002,
+                    55.349899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "23",
+                "id": "13407",
+                "ident": "6N7",
+                "type": "seaplane_base",
+                "name": "New York Skyports Inc Seaplane Base",
+                "latitude": 40.734001,
+                "longitude": -73.9729,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-NY",
+                "municipality": "New York",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "QNY",
+                "local_code": "6N7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9729,
+                    40.734001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "54",
+                "id": "16174",
+                "ident": "AK81",
+                "type": "seaplane_base",
+                "name": "Amook Bay Seaplane Base",
+                "latitude": 57.4715004,
+                "longitude": -153.8150024,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Amook Bay",
+                "scheduled_service": "yes",
+                "gps_code": "AK81",
+                "iata_code": "AOS",
+                "local_code": "AK81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.8150024,
+                    57.4715004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "61",
+                "id": "35302",
+                "ident": "AU-HIS",
+                "type": "seaplane_base",
+                "name": "Hayman Island Resort Seaplane Base",
+                "latitude": -20.0599995,
+                "longitude": 148.8809967,
+                "elevation_ft": "NULL",
+                "continent": "OC",
+                "iso_country": "AU",
+                "iso_region": "AU-QLD",
+                "municipality": "Hayman Island",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "HIS",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.8809967,
+                    -20.0599995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "161",
+                "id": "312172",
+                "ident": "BJT",
+                "type": "seaplane_base",
+                "name": "Bentota River Waterdrome",
+                "latitude": 6.431,
+                "longitude": 79.996,
+                "elevation_ft": "NULL",
+                "continent": "AS",
+                "iso_country": "LK",
+                "iso_region": "LK-1",
+                "municipality": "Bentota",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "BJT",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.996,
+                    6.431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "167",
+                "id": "35303",
+                "ident": "BS-NSB",
+                "type": "seaplane_base",
+                "name": "Bimini North Seaplane Base",
+                "latitude": 25.7670002,
+                "longitude": -79.25,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "BS",
+                "iso_region": "BS-BI",
+                "municipality": "Bimini",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NSB",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.25,
+                    25.7670002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "181",
+                "id": "28174",
+                "ident": "CAB3",
+                "type": "seaplane_base",
+                "name": "Bedwell Harbour Seaplane Base",
+                "latitude": 48.75,
+                "longitude": -123.2330017,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Bedwell Harbour",
+                "scheduled_service": "yes",
+                "gps_code": "CAB3",
+                "iata_code": "YBW",
+                "local_code": "CAB3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.2330017,
+                    48.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "182",
+                "id": "28332",
+                "ident": "CAC8",
+                "type": "seaplane_base",
+                "name": "Nanaimo Harbour Water Airport",
+                "latitude": 49.1833,
+                "longitude": -123.9499969,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Nanaimo",
+                "scheduled_service": "yes",
+                "gps_code": "CAC8",
+                "iata_code": "ZNA",
+                "local_code": "CAC8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.9499969,
+                    49.1833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "183",
+                "id": "28465",
+                "ident": "CAE5",
+                "type": "seaplane_base",
+                "name": "Whistler/Green Lake Water Aerodrome",
+                "latitude": 50.1436005,
+                "longitude": -122.9489975,
+                "elevation_ft": "2100",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Whistler",
+                "scheduled_service": "yes",
+                "gps_code": "CAE5",
+                "iata_code": "YWS",
+                "local_code": "CAE5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9489975,
+                    50.1436005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "185",
+                "id": "28454",
+                "ident": "CAM9",
+                "type": "seaplane_base",
+                "name": "Vancouver International Seaplane Base",
+                "latitude": 49.177047,
+                "longitude": -123.168154,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Vancouver",
+                "scheduled_service": "yes",
+                "gps_code": "CAM9",
+                "iata_code": "NULL",
+                "local_code": "CAM9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.168154,
+                    49.177047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "186",
+                "id": "28235",
+                "ident": "CAX6",
+                "type": "seaplane_base",
+                "name": "Ganges Seaplane Base",
+                "latitude": 48.8545,
+                "longitude": -123.4969,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Salt Spring Island",
+                "scheduled_service": "yes",
+                "gps_code": "CAX6",
+                "iata_code": "YGG",
+                "local_code": "CAX6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.4969,
+                    48.8545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "193",
+                "id": "28200",
+                "ident": "CCX6",
+                "type": "seaplane_base",
+                "name": "Comox Seaplane Base",
+                "latitude": 49.670601,
+                "longitude": -124.932999,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Comox",
+                "scheduled_service": "yes",
+                "gps_code": "CCX6",
+                "iata_code": "NULL",
+                "local_code": "CCX6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.932999,
+                    49.670601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "292",
+                "id": "28453",
+                "ident": "CYHC",
+                "type": "seaplane_base",
+                "name": "Vancouver Harbour Water Aerodrome",
+                "latitude": 49.2943993,
+                "longitude": -123.1110001,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Vancouver",
+                "scheduled_service": "yes",
+                "gps_code": "CYHC",
+                "iata_code": "CXH",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1110001,
+                    49.2943993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "391",
+                "id": "1947",
+                "ident": "CYWH",
+                "type": "seaplane_base",
+                "name": "Victoria Harbour Seaplane Base",
+                "latitude": 48.4249859,
+                "longitude": -123.3888674,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Victoria",
+                "scheduled_service": "yes",
+                "gps_code": "CYWH",
+                "iata_code": "YWH",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3888674,
+                    48.4249859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "521",
+                "id": "318125",
+                "ident": "DWO",
+                "type": "seaplane_base",
+                "name": "Diyawanna Oya Seaplane Base",
+                "latitude": 6.906585,
+                "longitude": 79.909,
+                "elevation_ft": "10",
+                "continent": "AS",
+                "iso_country": "LK",
+                "iso_region": "LK-1",
+                "municipality": "Kotte",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "DWO",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.909,
+                    6.906585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "804",
+                "id": "17184",
+                "ident": "EXI",
+                "type": "seaplane_base",
+                "name": "Excursion Inlet Seaplane Base",
+                "latitude": 58.420502,
+                "longitude": -135.449005,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Excursion Inlet",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "EXI",
+                "local_code": "EXI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.449005,
+                    58.420502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1087",
+                "id": "318151",
+                "ident": "HBT",
+                "type": "seaplane_base",
+                "name": "Hambantota Seaplane Base",
+                "latitude": 6.124043,
+                "longitude": 81.103,
+                "elevation_ft": "0",
+                "continent": "AS",
+                "iso_country": "LK",
+                "iso_region": "LK-3",
+                "municipality": "Hambantota",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "HBT",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.103,
+                    6.124043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1169",
+                "id": "17659",
+                "ident": "HYL",
+                "type": "seaplane_base",
+                "name": "Hollis Clark Bay Seaplane Base",
+                "latitude": 55.4816017,
+                "longitude": -132.6459961,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Hollis",
+                "scheduled_service": "yes",
+                "gps_code": "HYL",
+                "iata_code": "HYL",
+                "local_code": "HYL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -132.6459961,
+                    55.4816017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1304",
+                "id": "313410",
+                "ident": "KDZ",
+                "type": "seaplane_base",
+                "name": "Polgolla Reservoir Seaplane Base",
+                "latitude": 7.3251,
+                "longitude": 80.6422,
+                "elevation_ft": "1473",
+                "continent": "AS",
+                "iso_country": "LK",
+                "iso_region": "LK-2",
+                "municipality": "Kandy",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "KDZ",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.6422,
+                    7.3251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1500",
+                "id": "20904",
+                "ident": "KQA",
+                "type": "seaplane_base",
+                "name": "Akutan Seaplane Base",
+                "latitude": 54.1337704,
+                "longitude": -165.7788956,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Akutan",
+                "scheduled_service": "yes",
+                "gps_code": "KQA",
+                "iata_code": "KQA",
+                "local_code": "KQA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -165.7788956,
+                    54.1337704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1572",
+                "id": "21380",
+                "ident": "KWP",
+                "type": "seaplane_base",
+                "name": "West Point Village Seaplane Base",
+                "latitude": 57.7700996,
+                "longitude": -153.548996,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "West Point",
+                "scheduled_service": "yes",
+                "gps_code": "KWP",
+                "iata_code": "KWP",
+                "local_code": "KWP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.548996,
+                    57.7700996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1578",
+                "id": "308357",
+                "ident": "KZB",
+                "type": "seaplane_base",
+                "name": "Zachar Bay Seaplane Base",
+                "latitude": 57.553001,
+                "longitude": -153.746052,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Zachar Bay",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "KZB",
+                "local_code": "KZB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.746052,
+                    57.553001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1582",
+                "id": "313852",
+                "ident": "LBH",
+                "type": "seaplane_base",
+                "name": "Palm Beach Seaplane Base",
+                "latitude": -33.5871,
+                "longitude": 151.3234,
+                "elevation_ft": "0",
+                "continent": "OC",
+                "iso_country": "AU",
+                "iso_region": "AU-VIC",
+                "municipality": "Sydney",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "LBH",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3234,
+                    -33.5871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2410",
+                "id": "17178",
+                "ident": "PAEL",
+                "type": "seaplane_base",
+                "name": "Elfin Cove Seaplane Base",
+                "latitude": 58.1952019,
+                "longitude": -136.3470001,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Elfin Cove",
+                "scheduled_service": "yes",
+                "gps_code": "PAEL",
+                "iata_code": "ELV",
+                "local_code": "ELV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -136.3470001,
+                    58.1952019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2414",
+                "id": "16093",
+                "ident": "PAGN",
+                "type": "seaplane_base",
+                "name": "Angoon Seaplane Base",
+                "latitude": 57.503601,
+                "longitude": -134.585007,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Angoon",
+                "scheduled_service": "yes",
+                "gps_code": "PAGN",
+                "iata_code": "AGN",
+                "local_code": "AGN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.585007,
+                    57.503601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2432",
+                "id": "17468",
+                "ident": "PANR",
+                "type": "seaplane_base",
+                "name": "Funter Bay Seaplane Base",
+                "latitude": 58.2543984,
+                "longitude": -134.897995,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "Funter Bay",
+                "scheduled_service": "yes",
+                "gps_code": "PANR",
+                "iata_code": "FNR",
+                "local_code": "FNR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.897995,
+                    58.2543984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2492",
+                "id": "24236",
+                "ident": "PR34",
+                "type": "seaplane_base",
+                "name": "San Juan Seaplane Base",
+                "latitude": 18.4577999,
+                "longitude": -66.1211014,
+                "elevation_ft": "10",
+                "continent": "NA",
+                "iso_country": "PR",
+                "iso_region": "PR-U-A",
+                "municipality": "San Juan",
+                "scheduled_service": "yes",
+                "gps_code": "PR34",
+                "iata_code": "NULL",
+                "local_code": "PR34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.1211014,
+                    18.4577999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2670",
+                "id": "24380",
+                "ident": "S60",
+                "type": "seaplane_base",
+                "name": "Kenmore Air Harbor Inc Seaplane Base",
+                "latitude": 47.7547989,
+                "longitude": -122.2590027,
+                "elevation_ft": "14",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-WA",
+                "municipality": "Kenmore",
+                "scheduled_service": "yes",
+                "gps_code": "S60",
+                "iata_code": "KEH",
+                "local_code": "S60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2590027,
+                    47.7547989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3063",
+                "id": "309422",
+                "ident": "TTW",
+                "type": "seaplane_base",
+                "name": "Tissa Tank Waterdrome",
+                "latitude": 6.2876,
+                "longitude": 81.2906,
+                "elevation_ft": "75",
+                "continent": "AS",
+                "iso_country": "LK",
+                "iso_region": "LK-3",
+                "municipality": "Tissamaharama",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "TTW",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2906,
+                    6.2876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3401",
+                "id": "25495",
+                "ident": "VI22",
+                "type": "seaplane_base",
+                "name": "Charlotte Amalie Harbor Seaplane Base",
+                "latitude": 18.3386002,
+                "longitude": -64.9406967,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "VI",
+                "iso_region": "VI-U-A",
+                "municipality": "Charlotte Amalie St Thomas",
+                "scheduled_service": "yes",
+                "gps_code": "VI22",
+                "iata_code": "SPB",
+                "local_code": "VI22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.9406967,
+                    18.3386002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3402",
+                "id": "25496",
+                "ident": "VI32",
+                "type": "seaplane_base",
+                "name": "Christiansted Harbor Seaplane Base",
+                "latitude": 17.7472,
+                "longitude": -64.7049027,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "VI",
+                "iso_region": "VI-U-A",
+                "municipality": "Christiansted St Croix",
+                "scheduled_service": "yes",
+                "gps_code": "VI32",
+                "iata_code": "SSB",
+                "local_code": "VI32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.7049027,
+                    17.7472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3557",
+                "id": "25589",
+                "ident": "W55",
+                "type": "seaplane_base",
+                "name": "Kenmore Air Harbor Seaplane Base",
+                "latitude": 47.6290016,
+                "longitude": -122.3389969,
+                "elevation_ft": "14",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-WA",
+                "municipality": "Seattle",
+                "scheduled_service": "yes",
+                "gps_code": "W55",
+                "iata_code": "LKE",
+                "local_code": "W55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3389969,
+                    47.6290016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3687",
+                "id": "25980",
+                "ident": "WSJ",
+                "type": "seaplane_base",
+                "name": "San Juan /Uganik/ Seaplane Base",
+                "latitude": 57.7304,
+                "longitude": -153.320999,
+                "elevation_ft": "0",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-AK",
+                "municipality": "San Juan",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "UGI",
+                "local_code": "WSJ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.320999,
+                    57.7304
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2420 @@
+{
+    "type": "FeatureCollection",
+    "name": "airports",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2",
+                "id": "6738",
+                "ident": "03PN",
+                "type": "heliport",
+                "name": "M.P. Metals Heliport",
+                "latitude": 41.066861,
+                "longitude": -76.180806,
+                "elevation_ft": "479",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-PA",
+                "municipality": "Berwick",
+                "scheduled_service": "yes",
+                "gps_code": "03PN",
+                "iata_code": "NULL",
+                "local_code": "03PN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.180806,
+                    41.066861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3",
+                "id": "6799",
+                "ident": "04VA",
+                "type": "heliport",
+                "name": "Russell County Medical Center Heliport",
+                "latitude": 36.898,
+                "longitude": -82.078,
+                "elevation_ft": "2004",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-VA",
+                "municipality": "Lebanon",
+                "scheduled_service": "yes",
+                "gps_code": "04VA",
+                "iata_code": "NULL",
+                "local_code": "04VA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.078,
+                    36.898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "7",
+                "id": "7791",
+                "ident": "12PA",
+                "type": "heliport",
+                "name": "Helicopter Applicators Inc Heliport",
+                "latitude": 39.8495,
+                "longitude": -77.184167,
+                "elevation_ft": "612",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-PA",
+                "municipality": "Gettysburg",
+                "scheduled_service": "yes",
+                "gps_code": "12PA",
+                "iata_code": "NULL",
+                "local_code": "12PA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.184167,
+                    39.8495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "8",
+                "id": "7904",
+                "ident": "14NY",
+                "type": "heliport",
+                "name": "Windy's Heliport",
+                "latitude": 40.7975502,
+                "longitude": -73.4179001,
+                "elevation_ft": "222",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-NY",
+                "municipality": "Melville",
+                "scheduled_service": "yes",
+                "gps_code": "14NY",
+                "iata_code": "NULL",
+                "local_code": "14NY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4179001,
+                    40.7975502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "13",
+                "id": "10566",
+                "ident": "3LA7",
+                "type": "heliport",
+                "name": "Variable Bor Ram Heliport",
+                "latitude": 30.076753,
+                "longitude": -91.948969,
+                "elevation_ft": "30",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-LA",
+                "municipality": "Broussard",
+                "scheduled_service": "yes",
+                "gps_code": "3LA7",
+                "iata_code": "NULL",
+                "local_code": "3LA7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.948969,
+                    30.076753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "14",
+                "id": "324439",
+                "ident": "45NR",
+                "type": "heliport",
+                "name": "NHRMC-Ed North Heliport",
+                "latitude": 34.316552,
+                "longitude": -77.768284,
+                "elevation_ft": "29",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-NC",
+                "municipality": "Wilmington",
+                "scheduled_service": "yes",
+                "gps_code": "45NR",
+                "iata_code": "NULL",
+                "local_code": "45NR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.768284,
+                    34.316552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "17",
+                "id": "45946",
+                "ident": "4OR1",
+                "type": "heliport",
+                "name": "McNary ARNG Field Heliport",
+                "latitude": 44.912,
+                "longitude": -123.0015028,
+                "elevation_ft": "209",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-OR",
+                "municipality": "Salem",
+                "scheduled_service": "yes",
+                "gps_code": "4OR1",
+                "iata_code": "NULL",
+                "local_code": "4OR1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0015028,
+                    44.912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "22",
+                "id": "13405",
+                "ident": "6N5",
+                "type": "heliport",
+                "name": "East 34th Street Heliport",
+                "latitude": 40.7425995,
+                "longitude": -73.9720993,
+                "elevation_ft": "10",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-NY",
+                "municipality": "New York",
+                "scheduled_service": "yes",
+                "gps_code": "6N5",
+                "iata_code": "TSS",
+                "local_code": "6N5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9720993,
+                    40.7425995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "25",
+                "id": "14634",
+                "ident": "84CO",
+                "type": "heliport",
+                "name": "Rampart Heliport",
+                "latitude": 39.344239,
+                "longitude": -104.841906,
+                "elevation_ft": "6480",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-CO",
+                "municipality": "Castle Rock",
+                "scheduled_service": "yes",
+                "gps_code": "84CO",
+                "iata_code": "NULL",
+                "local_code": "84CO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.841906,
+                    39.344239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "30",
+                "id": "300646",
+                "ident": "AEI",
+                "type": "heliport",
+                "name": "Algeciras Heliport",
+                "latitude": 36.12888,
+                "longitude": -5.441118,
+                "elevation_ft": "98",
+                "continent": "EU",
+                "iso_country": "ES",
+                "iso_region": "ES-CA",
+                "municipality": "Algeciras",
+                "scheduled_service": "yes",
+                "gps_code": "LEAG",
+                "iata_code": "AEI",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.441118,
+                    36.12888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "31",
+                "id": "35369",
+                "ident": "AF15",
+                "type": "heliport",
+                "name": "Qara Tepa Heliport",
+                "latitude": 37.4233017,
+                "longitude": 69.4302979,
+                "elevation_ft": "1437",
+                "continent": "AS",
+                "iso_country": "AF",
+                "iso_region": "AF-TAK",
+                "municipality": "",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.4302979,
+                    37.4233017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "97",
+                "id": "43214",
+                "ident": "BGAG",
+                "type": "heliport",
+                "name": "Aappilattoq (Qaasuitsup) Heliport",
+                "latitude": 72.8870298,
+                "longitude": -55.5962867,
+                "elevation_ft": "42",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Qaasuitsup",
+                "scheduled_service": "yes",
+                "gps_code": "BGAG",
+                "iata_code": "NULL",
+                "local_code": "AAP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.5962867,
+                    72.8870298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "98",
+                "id": "42247",
+                "ident": "BGAM",
+                "type": "heliport",
+                "name": "Tasiilaq Heliport",
+                "latitude": 65.612296,
+                "longitude": -37.618335,
+                "elevation_ft": "24",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Tasiilaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGAM",
+                "iata_code": "NULL",
+                "local_code": "AGM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37.618335,
+                    65.612296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "99",
+                "id": "35285",
+                "ident": "BGAP",
+                "type": "heliport",
+                "name": "Alluitsup Paa Heliport",
+                "latitude": 60.46445,
+                "longitude": -45.56917,
+                "elevation_ft": "54",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Alluitsup Paa",
+                "scheduled_service": "yes",
+                "gps_code": "BGAP",
+                "iata_code": "LLU",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.56917,
+                    60.46445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "100",
+                "id": "44046",
+                "ident": "BGAQ",
+                "type": "heliport",
+                "name": "Aappilattoq (Kujalleq) Heliport",
+                "latitude": 60.148357,
+                "longitude": -44.286916,
+                "elevation_ft": "30",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Nanortalik",
+                "scheduled_service": "yes",
+                "gps_code": "BGAQ",
+                "iata_code": "NULL",
+                "local_code": "QUV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.286916,
+                    60.148357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "101",
+                "id": "44047",
+                "ident": "BGAS",
+                "type": "heliport",
+                "name": "Ammassivik Heliport",
+                "latitude": 60.597376,
+                "longitude": -45.382445,
+                "elevation_ft": "71",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "",
+                "scheduled_service": "yes",
+                "gps_code": "BGAS",
+                "iata_code": "NULL",
+                "local_code": "QUW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.382445,
+                    60.597376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "102",
+                "id": "35286",
+                "ident": "BGAT",
+                "type": "heliport",
+                "name": "Attu Heliport",
+                "latitude": 67.9406629,
+                "longitude": -53.6218697,
+                "elevation_ft": "32",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Attu",
+                "scheduled_service": "yes",
+                "gps_code": "BGAT",
+                "iata_code": "QGQ",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.6218697,
+                    67.9406629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "104",
+                "id": "35299",
+                "ident": "BGCH",
+                "type": "heliport",
+                "name": "Qasigiannguit Heliport",
+                "latitude": 68.8228156,
+                "longitude": -51.1734474,
+                "elevation_ft": "70",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Qasigiannguit",
+                "scheduled_service": "yes",
+                "gps_code": "BGCH",
+                "iata_code": "JCH",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1734474,
+                    68.8228156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "106",
+                "id": "44052",
+                "ident": "BGET",
+                "type": "heliport",
+                "name": "Eqalugaarsuit Heliport",
+                "latitude": 60.6197197,
+                "longitude": -45.914062,
+                "elevation_ft": "9",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Eqalugaarsuit",
+                "scheduled_service": "yes",
+                "gps_code": "BGET",
+                "iata_code": "QFG",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.914062,
+                    60.6197197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "107",
+                "id": "44062",
+                "ident": "BGFD",
+                "type": "heliport",
+                "name": "Narsaq Kujalleq Heliport",
+                "latitude": 60.004694,
+                "longitude": -44.656935,
+                "elevation_ft": "44",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Narsaq Kujalleq",
+                "scheduled_service": "yes",
+                "gps_code": "BGFD",
+                "iata_code": "NULL",
+                "local_code": "QFN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.656935,
+                    60.004694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "109",
+                "id": "35300",
+                "ident": "BGGN",
+                "type": "heliport",
+                "name": "Qeqertarsuaq Heliport",
+                "latitude": 69.251182,
+                "longitude": -53.5148764,
+                "elevation_ft": "9",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Qeqertarsuaq Airport",
+                "scheduled_service": "yes",
+                "gps_code": "BGGN",
+                "iata_code": "JGO",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.5148764,
+                    69.251182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "110",
+                "id": "43215",
+                "ident": "BGIA",
+                "type": "heliport",
+                "name": "Ikerasak Heliport",
+                "latitude": 70.4981454,
+                "longitude": -51.3030839,
+                "elevation_ft": "66",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ikerasak",
+                "scheduled_service": "yes",
+                "gps_code": "BGIA",
+                "iata_code": "NULL",
+                "local_code": "IKE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.3030839,
+                    70.4981454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "111",
+                "id": "44054",
+                "ident": "BGIG",
+                "type": "heliport",
+                "name": "Iginniarfik",
+                "latitude": 68.1472256,
+                "longitude": -53.1735277,
+                "elevation_ft": "50",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Iginniarfik",
+                "scheduled_service": "yes",
+                "gps_code": "BGIG",
+                "iata_code": "QFI",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.1735277,
+                    68.1472256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "112",
+                "id": "35290",
+                "ident": "BGIK",
+                "type": "heliport",
+                "name": "Ikerassaarsuk Heliport",
+                "latitude": 68.140881,
+                "longitude": -53.4414589,
+                "elevation_ft": "165",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ikerassaarsuk",
+                "scheduled_service": "yes",
+                "gps_code": "BGIK",
+                "iata_code": "QRY",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.4414589,
+                    68.140881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "113",
+                "id": "35291",
+                "ident": "BGIL",
+                "type": "heliport",
+                "name": "Ilimanaq Heliport",
+                "latitude": 69.080915,
+                "longitude": -51.1143154,
+                "elevation_ft": "52",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ilimanaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGIL",
+                "iata_code": "XIQ",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1143154,
+                    69.080915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "114",
+                "id": "44056",
+                "ident": "BGIN",
+                "type": "heliport",
+                "name": "Innarsuit Heliport",
+                "latitude": 73.1998953,
+                "longitude": -56.0108167,
+                "elevation_ft": "95",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Innarsuit",
+                "scheduled_service": "yes",
+                "gps_code": "BGIN",
+                "iata_code": "NULL",
+                "local_code": "INN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.0108167,
+                    73.1998953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "115",
+                "id": "44057",
+                "ident": "BGIS",
+                "type": "heliport",
+                "name": "Isortoq Heliport",
+                "latitude": 65.5477924,
+                "longitude": -38.9765525,
+                "elevation_ft": "92",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Isortoq",
+                "scheduled_service": "yes",
+                "gps_code": "BGIS",
+                "iata_code": "NULL",
+                "local_code": "ISO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.9765525,
+                    65.5477924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "116",
+                "id": "35289",
+                "ident": "BGIT",
+                "type": "heliport",
+                "name": "Ikamiut Heliport",
+                "latitude": 68.6342531,
+                "longitude": -51.8322623,
+                "elevation_ft": "49",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ikamiut",
+                "scheduled_service": "yes",
+                "gps_code": "BGIT",
+                "iata_code": "QJI",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.8322623,
+                    68.6342531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "117",
+                "id": "35298",
+                "ident": "BGJH",
+                "type": "heliport",
+                "name": "Qaqortoq Heliport",
+                "latitude": 60.7156842,
+                "longitude": -46.0299186,
+                "elevation_ft": "53",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Qaqortoq",
+                "scheduled_service": "yes",
+                "gps_code": "BGJH",
+                "iata_code": "JJU",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.0299186,
+                    60.7156842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "119",
+                "id": "35292",
+                "ident": "BGKA",
+                "type": "heliport",
+                "name": "Kangaatsiaq Heliport",
+                "latitude": 68.3126575,
+                "longitude": -53.4602076,
+                "elevation_ft": "17",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Kangaatsiaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGKA",
+                "iata_code": "QPW",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.4602076,
+                    68.3126575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "121",
+                "id": "43224",
+                "ident": "BGKL",
+                "type": "heliport",
+                "name": "Upernavik Kujalleq Heliport",
+                "latitude": 72.1527425,
+                "longitude": -55.5309856,
+                "elevation_ft": "92",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Upernavik Kujalleq",
+                "scheduled_service": "yes",
+                "gps_code": "BGKL",
+                "iata_code": "NULL",
+                "local_code": "UPK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.5309856,
+                    72.1527425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "122",
+                "id": "44060",
+                "ident": "BGKM",
+                "type": "heliport",
+                "name": "Kuummiut Heliport",
+                "latitude": 65.8639347,
+                "longitude": -36.9979191,
+                "elevation_ft": "89",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Kuummiut",
+                "scheduled_service": "yes",
+                "gps_code": "BGKM",
+                "iata_code": "NULL",
+                "local_code": "KMT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36.9979191,
+                    65.8639347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "123",
+                "id": "43218",
+                "ident": "BGKQ",
+                "type": "heliport",
+                "name": "Kullorsuaq Heliport",
+                "latitude": 74.5780498,
+                "longitude": -57.2268283,
+                "elevation_ft": "148",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Kullorsuaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGKQ",
+                "iata_code": "NULL",
+                "local_code": "KLQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.2268283,
+                    74.5780498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "124",
+                "id": "43217",
+                "ident": "BGKS",
+                "type": "heliport",
+                "name": "Kangersuatsiaq Heliport",
+                "latitude": 72.3810916,
+                "longitude": -55.5365861,
+                "elevation_ft": "112",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Kangersuatsiaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGKS",
+                "iata_code": "NULL",
+                "local_code": "KAQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.5365861,
+                    72.3810916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "125",
+                "id": "35293",
+                "ident": "BGKT",
+                "type": "heliport",
+                "name": "Kitsissuarsuit Heliport",
+                "latitude": 68.857926,
+                "longitude": -53.1232953,
+                "elevation_ft": "18",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Kitsissuarsuit",
+                "scheduled_service": "yes",
+                "gps_code": "BGKT",
+                "iata_code": "QJE",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.1232953,
+                    68.857926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "126",
+                "id": "299107",
+                "ident": "bgmo",
+                "type": "heliport",
+                "name": "Moriusaq Heliport",
+                "latitude": 76.7534922,
+                "longitude": -69.8450553,
+                "elevation_ft": "44",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "",
+                "scheduled_service": "yes",
+                "gps_code": "BGMO",
+                "iata_code": "NULL",
+                "local_code": "MOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.8450553,
+                    76.7534922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "128",
+                "id": "35296",
+                "ident": "BGNK",
+                "type": "heliport",
+                "name": "Niaqornaarsuk Heliport",
+                "latitude": 68.236381,
+                "longitude": -52.852148,
+                "elevation_ft": "152",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Niaqornaarsuk",
+                "scheduled_service": "yes",
+                "gps_code": "BGNK",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.852148,
+                    68.236381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "129",
+                "id": "43219",
+                "ident": "BGNQ",
+                "type": "heliport",
+                "name": "Nuugaatsiaq Heliport",
+                "latitude": 71.5387688,
+                "longitude": -53.2050383,
+                "elevation_ft": "57",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Nuugaatsiaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGNQ",
+                "iata_code": "NULL",
+                "local_code": "NUG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.2050383,
+                    71.5387688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "130",
+                "id": "35295",
+                "ident": "BGNS",
+                "type": "heliport",
+                "name": "Narsaq Heliport",
+                "latitude": 60.9172827,
+                "longitude": -46.0599232,
+                "elevation_ft": "83",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Narsaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGNS",
+                "iata_code": "JNS",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.0599232,
+                    60.9172827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "131",
+                "id": "44063",
+                "ident": "BGNT",
+                "type": "heliport",
+                "name": "Niaqornat Heliport",
+                "latitude": 70.7893847,
+                "longitude": -53.662945,
+                "elevation_ft": "10",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Niaqornat",
+                "scheduled_service": "yes",
+                "gps_code": "BGNT",
+                "iata_code": "NULL",
+                "local_code": "NIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.662945,
+                    70.7893847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "132",
+                "id": "43220",
+                "ident": "BGNU",
+                "type": "heliport",
+                "name": "Nuussuaq Heliport",
+                "latitude": 74.1098529,
+                "longitude": -57.0650375,
+                "elevation_ft": "184",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Nuussuaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGNU",
+                "iata_code": "NULL",
+                "local_code": "NUS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.0650375,
+                    74.1098529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "134",
+                "id": "43221",
+                "ident": "BGQE",
+                "type": "heliport",
+                "name": "Qeqertaq Heliport",
+                "latitude": 69.9958611,
+                "longitude": -51.3009167,
+                "elevation_ft": "69",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Qeqertaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGQE",
+                "iata_code": "QQT",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.3009167,
+                    69.9958611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "136",
+                "id": "44058",
+                "ident": "BGSC",
+                "type": "heliport",
+                "name": "Ittoqqortoormiit Heliport",
+                "latitude": 70.4882288,
+                "longitude": -21.9716799,
+                "elevation_ft": "238",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ittoqqortoormiit",
+                "scheduled_service": "yes",
+                "gps_code": "BGSC",
+                "iata_code": "OBY",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9716799,
+                    70.4882288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "138",
+                "id": "44069",
+                "ident": "BGSG",
+                "type": "heliport",
+                "name": "Sermiligaaq Heliport",
+                "latitude": 65.9059198,
+                "longitude": -36.3782537,
+                "elevation_ft": "33",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ittoqqortoormiit",
+                "scheduled_service": "yes",
+                "gps_code": "BGSG",
+                "iata_code": "NULL",
+                "local_code": "SMG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36.3782537,
+                    65.9059198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "139",
+                "id": "44070",
+                "ident": "BGSI",
+                "type": "heliport",
+                "name": "Siorapaluk Heliport",
+                "latitude": 77.7865174,
+                "longitude": -70.6386566,
+                "elevation_ft": "102",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Siorapaluk",
+                "scheduled_service": "yes",
+                "gps_code": "BGSI",
+                "iata_code": "NULL",
+                "local_code": "SIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6386566,
+                    77.7865174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "140",
+                "id": "35301",
+                "ident": "BGSQ",
+                "type": "heliport",
+                "name": "Saqqaq Heliport",
+                "latitude": 70.011448,
+                "longitude": -51.932142,
+                "elevation_ft": "38",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Saqqaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGSQ",
+                "iata_code": "NULL",
+                "local_code": "QUP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.932142,
+                    70.011448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "142",
+                "id": "43222",
+                "ident": "BGST",
+                "type": "heliport",
+                "name": "Saattut Heliport",
+                "latitude": 70.811172,
+                "longitude": -51.6312897,
+                "elevation_ft": "131",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Saattut",
+                "scheduled_service": "yes",
+                "gps_code": "BGST",
+                "iata_code": "NULL",
+                "local_code": "SAA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.6312897,
+                    70.811172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "143",
+                "id": "44068",
+                "ident": "BGSV",
+                "type": "heliport",
+                "name": "Savissivik Heliport",
+                "latitude": 76.0186135,
+                "longitude": -65.1176834,
+                "elevation_ft": "24",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Savissivik",
+                "scheduled_service": "yes",
+                "gps_code": "BGSV",
+                "iata_code": "NULL",
+                "local_code": "SAV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.1176834,
+                    76.0186135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "145",
+                "id": "44076",
+                "ident": "BGTN",
+                "type": "heliport",
+                "name": "Tiniteqilaaq Heliport",
+                "latitude": 65.8920273,
+                "longitude": -37.7834094,
+                "elevation_ft": "15",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Tiniteqilaaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGTN",
+                "iata_code": "NULL",
+                "local_code": "TNT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37.7834094,
+                    65.8920273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "146",
+                "id": "44074",
+                "ident": "BGTQ",
+                "type": "heliport",
+                "name": "Tasiusaq (Kujalleq) Heliport",
+                "latitude": 60.1943053,
+                "longitude": -44.813447,
+                "elevation_ft": "21",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Nanortalik",
+                "scheduled_service": "yes",
+                "gps_code": "BGTQ",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.813447,
+                    60.1943053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "148",
+                "id": "43225",
+                "ident": "BGUM",
+                "type": "heliport",
+                "name": "Uummannaq Heliport",
+                "latitude": 70.6804279,
+                "longitude": -52.1116304,
+                "elevation_ft": "50",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Uummannaq",
+                "scheduled_service": "yes",
+                "gps_code": "BGUM",
+                "iata_code": "UMD",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.1116304,
+                    70.6804279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "150",
+                "id": "43223",
+                "ident": "BGUT",
+                "type": "heliport",
+                "name": "Ukkusissat Heliport",
+                "latitude": 71.0494385,
+                "longitude": -51.8900156,
+                "elevation_ft": "223",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Ukkusissat",
+                "scheduled_service": "yes",
+                "gps_code": "BGUT",
+                "iata_code": "NULL",
+                "local_code": "UKK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.8900156,
+                    71.0494385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "165",
+                "id": "327786",
+                "ident": "BR-0318",
+                "type": "heliport",
+                "name": "Cooperativa Lar Heliport",
+                "latitude": -25.27427,
+                "longitude": -54.067369,
+                "elevation_ft": "1601",
+                "continent": "SA",
+                "iso_country": "BR",
+                "iso_region": "BR-PR",
+                "municipality": "Medianeira",
+                "scheduled_service": "yes",
+                "gps_code": "SSLC",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.067369,
+                    -25.27427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "166",
+                "id": "329000",
+                "ident": "BR-0352",
+                "type": "heliport",
+                "name": "N. S. A. Heliport",
+                "latitude": -22.7384254,
+                "longitude": -45.540062,
+                "elevation_ft": "5663",
+                "continent": "SA",
+                "iso_country": "BR",
+                "iso_region": "BR-SP",
+                "municipality": "Campos do Jord\u00c3\u00a3o",
+                "scheduled_service": "yes",
+                "gps_code": "SNBK",
+                "iata_code": "NULL",
+                "local_code": "SNBK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.540062,
+                    -22.7384254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "192",
+                "id": "776",
+                "ident": "CCR6",
+                "type": "heliport",
+                "name": "Campbell River (E & B Heli) Heliport",
+                "latitude": 50.0413227,
+                "longitude": -125.2684481,
+                "elevation_ft": "7",
+                "continent": "NA",
+                "iso_country": "CA",
+                "iso_region": "CA-BC",
+                "municipality": "Campbell River",
+                "scheduled_service": "yes",
+                "gps_code": "CCR6",
+                "iata_code": "NULL",
+                "local_code": "CCR6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.2684481,
+                    50.0413227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "203",
+                "id": "16804",
+                "ident": "CL85",
+                "type": "heliport",
+                "name": "Infineon Raceway Pad 1 Heliport",
+                "latitude": 38.1582333,
+                "longitude": -122.4563167,
+                "elevation_ft": "115",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-CA",
+                "municipality": "Sonoma",
+                "scheduled_service": "yes",
+                "gps_code": "CL85",
+                "iata_code": "NULL",
+                "local_code": "CL85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4563167,
+                    38.1582333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "566",
+                "id": "43020",
+                "ident": "EECL",
+                "type": "heliport",
+                "name": "Tallinn Linnahall Heliport",
+                "latitude": 59.4486198,
+                "longitude": 24.7532272,
+                "elevation_ft": "23",
+                "continent": "EU",
+                "iso_country": "EE",
+                "iso_region": "EE-37",
+                "municipality": "Tallinn",
+                "scheduled_service": "yes",
+                "gps_code": "EECL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7532272,
+                    59.4486198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "742",
+                "id": "35127",
+                "ident": "ENVR",
+                "type": "heliport",
+                "name": "V\u00c3\u00a6r\u00c3\u00b8y Heliport",
+                "latitude": 67.654555,
+                "longitude": 12.727257,
+                "elevation_ft": "12",
+                "continent": "EU",
+                "iso_country": "NO",
+                "iso_region": "NO-18",
+                "municipality": "V\u00c3\u00a6r\u00c3\u00b8y",
+                "scheduled_service": "yes",
+                "gps_code": "ENVR",
+                "iata_code": "VRY",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.727257,
+                    67.654555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "944",
+                "id": "35155",
+                "ident": "FR-JCA",
+                "type": "heliport",
+                "name": "Croisette Heliport",
+                "latitude": 43.5359993,
+                "longitude": 7.0373602,
+                "elevation_ft": "NULL",
+                "continent": "EU",
+                "iso_country": "FR",
+                "iso_region": "FR-U",
+                "municipality": "Cannes",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "JCA",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0373602,
+                    43.5359993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1017",
+                "id": "35151",
+                "ident": "GECE",
+                "type": "heliport",
+                "name": "Ceuta Heliport",
+                "latitude": 35.8927994,
+                "longitude": -5.3063898,
+                "elevation_ft": "8",
+                "continent": "EU",
+                "iso_country": "ES",
+                "iso_region": "ES-CE",
+                "municipality": "Ceuta",
+                "scheduled_service": "yes",
+                "gps_code": "GECE",
+                "iata_code": "JCU",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3063898,
+                    35.8927994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1025",
+                "id": "35287",
+                "ident": "GL-JGR",
+                "type": "heliport",
+                "name": "Groennedal Heliport",
+                "latitude": 61.233299,
+                "longitude": -48.099998,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Groennedal",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "JGR",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.099998,
+                    61.233299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1026",
+                "id": "35284",
+                "ident": "GL-QCU",
+                "type": "heliport",
+                "name": "Akunaq Heliport",
+                "latitude": 68.7442728,
+                "longitude": -52.3403692,
+                "elevation_ft": "59",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "",
+                "scheduled_service": "yes",
+                "gps_code": "BGAK",
+                "iata_code": "QCU",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.3403692,
+                    68.7442728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1174",
+                "id": "46594",
+                "ident": "ID-0015",
+                "type": "heliport",
+                "name": "Discovery Helipad",
+                "latitude": -8.7280556,
+                "longitude": 115.1661111,
+                "elevation_ft": "NULL",
+                "continent": "AS",
+                "iso_country": "ID",
+                "iso_region": "ID-BA",
+                "municipality": "",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1661111,
+                    -8.7280556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1184",
+                "id": "46555",
+                "ident": "IN-0032",
+                "type": "heliport",
+                "name": "Saiha Helipad",
+                "latitude": 22.4885833,
+                "longitude": 92.98695,
+                "elevation_ft": "NULL",
+                "continent": "AS",
+                "iso_country": "IN",
+                "iso_region": "IN-MZ",
+                "municipality": "Saiha",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.98695,
+                    22.4885833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1186",
+                "id": "315328",
+                "ident": "IN-0095",
+                "type": "heliport",
+                "name": "Perunad Helipad",
+                "latitude": 9.3539,
+                "longitude": 76.86489,
+                "elevation_ft": "NULL",
+                "continent": "AS",
+                "iso_country": "IN",
+                "iso_region": "IN-KL",
+                "municipality": "",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86489,
+                    9.3539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1194",
+                "id": "35275",
+                "ident": "IT-TQR",
+                "type": "heliport",
+                "name": "San Domino Island Heliport",
+                "latitude": 42.117775,
+                "longitude": 15.490655,
+                "elevation_ft": "NULL",
+                "continent": "EU",
+                "iso_country": "IT",
+                "iso_region": "IT-75",
+                "municipality": "Tremiti Islands",
+                "scheduled_service": "yes",
+                "gps_code": "LINI",
+                "iata_code": "TQR",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.490655,
+                    42.117775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1199",
+                "id": "18256",
+                "ident": "JRA",
+                "type": "heliport",
+                "name": "West 30th St. Heliport",
+                "latitude": 40.754501,
+                "longitude": -74.007103,
+                "elevation_ft": "7",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-NY",
+                "municipality": "New York",
+                "scheduled_service": "yes",
+                "gps_code": "KJRA",
+                "iata_code": "JRA",
+                "local_code": "JRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007103,
+                    40.754501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1579",
+                "id": "21562",
+                "ident": "LA95",
+                "type": "heliport",
+                "name": "Abbeville General Hospital Heliport",
+                "latitude": 29.974361,
+                "longitude": -92.108433,
+                "elevation_ft": "13",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-LA",
+                "municipality": "Abbeville",
+                "scheduled_service": "yes",
+                "gps_code": "LA95",
+                "iata_code": "NULL",
+                "local_code": "LA95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.108433,
+                    29.974361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1792",
+                "id": "35207",
+                "ident": "LMMG",
+                "type": "heliport",
+                "name": "Xewkija Heliport",
+                "latitude": 36.027199,
+                "longitude": 14.2728,
+                "elevation_ft": "NULL",
+                "continent": "EU",
+                "iso_country": "MT",
+                "iso_region": "MT-62",
+                "municipality": "Gozo",
+                "scheduled_service": "yes",
+                "gps_code": "LMMG",
+                "iata_code": "GZM",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2728,
+                    36.027199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1794",
+                "id": "30153",
+                "ident": "LNMC",
+                "type": "heliport",
+                "name": "Monaco Heliport",
+                "latitude": 43.7256012,
+                "longitude": 7.4191699,
+                "elevation_ft": "20",
+                "continent": "EU",
+                "iso_country": "MC",
+                "iso_region": "MC-U-A",
+                "municipality": "Fontvieille",
+                "scheduled_service": "yes",
+                "gps_code": "LNMC",
+                "iata_code": "MCM",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4191699,
+                    43.7256012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1836",
+                "id": "43112",
+                "ident": "LSER",
+                "type": "heliport",
+                "name": "Raron Heliport",
+                "latitude": 46.3015938,
+                "longitude": 7.8332067,
+                "elevation_ft": "NULL",
+                "continent": "EU",
+                "iso_country": "CH",
+                "iso_region": "CH-VS",
+                "municipality": "Raron",
+                "scheduled_service": "yes",
+                "gps_code": "LSER",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8332067,
+                    46.3015938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "1906",
+                "id": "21747",
+                "ident": "M62",
+                "type": "heliport",
+                "name": "Rotorcraft Heliport",
+                "latitude": 46.2066994,
+                "longitude": -114.1529999,
+                "elevation_ft": "3630",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-MT",
+                "municipality": "Hamilton",
+                "scheduled_service": "yes",
+                "gps_code": "M62",
+                "iata_code": "NULL",
+                "local_code": "M62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.1529999,
+                    46.2066994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2026",
+                "id": "22281",
+                "ident": "MO76",
+                "type": "heliport",
+                "name": "Life Line 2 Heliport",
+                "latitude": 37.8232444,
+                "longitude": -92.1610167,
+                "elevation_ft": "1059",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-MO",
+                "municipality": "Saint Robert",
+                "scheduled_service": "yes",
+                "gps_code": "MO76",
+                "iata_code": "NULL",
+                "local_code": "MO76"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1610167,
+                    37.8232444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2078",
+                "id": "327974",
+                "ident": "MX-0685",
+                "type": "heliport",
+                "name": "Cantarell II Platform Helipad",
+                "latitude": 18.501817,
+                "longitude": -93.520564,
+                "elevation_ft": "66",
+                "continent": "NA",
+                "iso_country": "MX",
+                "iso_region": "MX-TAB",
+                "municipality": "Villahermosa",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "HRS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.520564,
+                    18.501817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2080",
+                "id": "328846",
+                "ident": "MX-0779",
+                "type": "heliport",
+                "name": "El Universal Heliport",
+                "latitude": 19.434329,
+                "longitude": -99.149613,
+                "elevation_ft": "7461",
+                "continent": "NA",
+                "iso_country": "MX",
+                "iso_region": "MX-DIF",
+                "municipality": "Cuauht\u00c3\u00a9moc",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "HEU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.149613,
+                    19.434329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2500",
+                "id": "299106",
+                "ident": "qfx",
+                "type": "heliport",
+                "name": "Igaliku Heliport",
+                "latitude": 60.9920065,
+                "longitude": -45.4323345,
+                "elevation_ft": "NULL",
+                "continent": "NA",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A",
+                "municipality": "Igaliku",
+                "scheduled_service": "yes",
+                "gps_code": "BGIO",
+                "iata_code": "QFX",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.4323345,
+                    60.9920065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2590",
+                "id": "300346",
+                "ident": "RKDD",
+                "type": "heliport",
+                "name": "N 105 Helipad",
+                "latitude": 37.239445,
+                "longitude": 131.868781,
+                "elevation_ft": "270",
+                "continent": "AS",
+                "iso_country": "KR",
+                "iso_region": "KR-47",
+                "municipality": "Dokdo (Liancort Rocks)",
+                "scheduled_service": "yes",
+                "gps_code": "RKDD",
+                "iata_code": "NULL",
+                "local_code": "RK8A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.868781,
+                    37.239445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2665",
+                "id": "44698",
+                "ident": "RU-0143",
+                "type": "heliport",
+                "name": "Avachinskiy Heliport",
+                "latitude": 53.1599999,
+                "longitude": 158.3849945,
+                "elevation_ft": "NULL",
+                "continent": "EU",
+                "iso_country": "RU",
+                "iso_region": "RU-KAM",
+                "municipality": "Yelizovo",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.3849945,
+                    53.1599999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2835",
+                "id": "35447",
+                "ident": "SDBW",
+                "type": "heliport",
+                "name": "Banespa Rep\u00c3\u00bablica Heliport",
+                "latitude": -23.543263,
+                "longitude": -46.650276,
+                "elevation_ft": "2676",
+                "continent": "SA",
+                "iso_country": "BR",
+                "iso_region": "BR-SP",
+                "municipality": "S\u00c3\u00a3o Paulo",
+                "scheduled_service": "yes",
+                "gps_code": "SDBW",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.650276,
+                    -23.543263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2972",
+                "id": "37428",
+                "ident": "SSCY",
+                "type": "heliport",
+                "name": "Sikorski Heliport",
+                "latitude": -25.439011,
+                "longitude": -49.448404,
+                "elevation_ft": "3149",
+                "continent": "SA",
+                "iso_country": "BR",
+                "iso_region": "BR-PR",
+                "municipality": "Campo Largo",
+                "scheduled_service": "yes",
+                "gps_code": "SSCY",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.448404,
+                    -25.439011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "2974",
+                "id": "46185",
+                "ident": "SSDR",
+                "type": "heliport",
+                "name": "Eletrocity Heliport",
+                "latitude": -20.207778,
+                "longitude": -40.235833,
+                "elevation_ft": "75",
+                "continent": "SA",
+                "iso_country": "BR",
+                "iso_region": "BR-ES",
+                "municipality": "Serra",
+                "scheduled_service": "yes",
+                "gps_code": "SSDR",
+                "iata_code": "NULL",
+                "local_code": "SSDR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.235833,
+                    -20.207778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3237",
+                "id": "46009",
+                "ident": "US-0096",
+                "type": "heliport",
+                "name": "Camp Canard Heliport",
+                "latitude": 29.7136002,
+                "longitude": -92.7629013,
+                "elevation_ft": "2",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-LA",
+                "municipality": "Grand Chenier",
+                "scheduled_service": "yes",
+                "gps_code": "NULL",
+                "iata_code": "NULL",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.7629013,
+                    29.7136002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3241",
+                "id": "322180",
+                "ident": "US-0418",
+                "type": "heliport",
+                "name": "St Clare's Hospital Heliport",
+                "latitude": 44.889456,
+                "longitude": -89.57905,
+                "elevation_ft": "1282",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-WI",
+                "municipality": "Weston",
+                "scheduled_service": "yes",
+                "gps_code": "WI88",
+                "iata_code": "NULL",
+                "local_code": "WI88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.57905,
+                    44.889456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3242",
+                "id": "325489",
+                "ident": "US-0719",
+                "type": "heliport",
+                "name": "Manele Heliport",
+                "latitude": 20.745933,
+                "longitude": -156.913039,
+                "elevation_ft": "475",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-HI",
+                "municipality": "Lanai",
+                "scheduled_service": "yes",
+                "gps_code": "HI02",
+                "iata_code": "NULL",
+                "local_code": "HI02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.913039,
+                    20.745933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3244",
+                "id": "328140",
+                "ident": "US-0891",
+                "type": "heliport",
+                "name": "Harvey Gulf Heliport",
+                "latitude": 29.139916,
+                "longitude": -90.201486,
+                "elevation_ft": "7",
+                "continent": "NA",
+                "iso_country": "US",
+                "iso_region": "US-LA",
+                "municipality": "Golden Meadow",
+                "scheduled_service": "yes",
+                "gps_code": "9LA0",
+                "iata_code": "NULL",
+                "local_code": "9LA0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.201486,
+                    29.139916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "table_id": "3400",
+                "id": "43192",
+                "ident": "VHST",
+                "type": "heliport",
+                "name": "Shun Tak Heliport",
+                "latitude": 22.2893715,
+                "longitude": 114.152153,
+                "elevation_ft": "107",
+                "continent": "AS",
+                "iso_country": "HK",
+                "iso_region": "HK-U-A",
+                "municipality": "Hong Kong",
+                "scheduled_service": "yes",
+                "gps_code": "VHST",
+                "iata_code": "HHP",
+                "local_code": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.152153,
+                    22.2893715
+                ]
+            }
+        }
+    ]
+}
